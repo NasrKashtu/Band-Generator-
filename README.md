@@ -23,7 +23,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/band-name-generator.git
+git clone (https://github.com/NasrKashtu/Band-Generator-/tree/main)
 cd band-name-generator
 Install dependencies (if any):
 
